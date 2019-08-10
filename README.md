@@ -9,7 +9,7 @@
 
 ## How to approach the problem:
 
-1. Use the lspci command to get the information on the hardware you have (I exported it to a file and place this on a usb so I could view it on a different pc)
+1. Use the lspci command to get the information on the hardware you have (I exported it to a file and placed this on a usb so I could view it on a different pc)
 
 1. Install the exact same Centos version on a different computer on a virtual machine
 
